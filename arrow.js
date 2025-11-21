@@ -8,3 +8,5 @@ const square = ( x ) => {
 const sum = ( x, y ) => {  
        return x + y ;
 }
+
+// we add the others things relating to arrow function later
