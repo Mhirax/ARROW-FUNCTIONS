@@ -10,5 +10,9 @@ const sum = ( x, y ) => {
 }
 
 
-
 //we always store our arrow function in variable first
+
+
+
+//Arrow functions are especially useful when passing a function as an argument, such as to the mapfunction.
+
