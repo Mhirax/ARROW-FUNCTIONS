@@ -9,6 +9,6 @@ const sum = ( x, y ) => {
        return x + y ;
 }
 
-// we add the others things relating to arrow function later
+
 
 //we always store our arrow function in variable first
